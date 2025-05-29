@@ -1,0 +1,5 @@
+ascii_magic
+pillow
+requests
+geocoder
+python-dotenv
